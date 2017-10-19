@@ -9,10 +9,10 @@ This project was inspired by p5-manager by @chiunhau, although his project p5-ma
 I really really need your contributions as my exams are everywhere and I don't have much time to fix all the bugs :) so please, feel free to send me pull requests :)
 
 ## Contact
-viethungax@gmail.com
+viethungax@gmail.com <br>
 https://facebook.com/ZeroXCEH
 
-#### Build Setup
+## Build Setup
 
 ``` bash
 # install dependencies
