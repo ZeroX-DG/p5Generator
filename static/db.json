@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "path": "C:/Users/HungNguyen/Desktop/p5/BusFinder",
+      "name": "BusFinder"
+    },
+    {
+      "path": "C:/Users/HungNguyen/Desktop/p5/GeneticCar",
+      "name": "GeneticCar"
+    },
+    {
+      "path": "C:/Users/HungNguyen/Desktop/p5/mindMap",
+      "name": "mindMap"
+    },
+    {
+      "path": "C:/Users/HungNguyen/Desktop/p5/spinBrick",
+      "name": "spinBrick"
+    }
+  ]
+}
