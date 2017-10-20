@@ -110,7 +110,6 @@
             fs.unlinkSync(path.join(this.path, '/libraries', library));
           }
         });
-        projectManager.updateHtml(this.path, this.ProjectLibraries);
         Materialize.toast('Project saved !', 4000)
       }
     },
