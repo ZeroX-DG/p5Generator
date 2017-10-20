@@ -10,12 +10,12 @@ So thanks @chiunhau for inspiring me :)
 You can check out p5-manager here: https://github.com/chiunhau/p5-manager
 
 ## How to use
-To open an changing libraries in an existed project
+To open an changing libraries in an existed project <br>
 ![](https://media.giphy.com/media/3o7aCQB06LlsLVwJO0/giphy.gif)
 
 <br>
 
-To generate a project
+To generate a project <br>
 ![](https://media.giphy.com/media/l378aNuFRQ9z6O0yk/giphy.gif)
 
 ## Contribution
