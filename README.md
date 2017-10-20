@@ -3,10 +3,14 @@
 > A p5.js projects generator and manager
 
 ## About this project
-This project was inspired by p5-manager by @chiunhau, although his project p5-manager have already had a GUI but I just want to try to create my own p5-manager version, so thank you @chiunhau for inspired me :)
+This project was inspired by p5-manager by @chiunhau
+And also it's because I have some freetime and I want to create my version of "p5-manager"
+So thanks @chiunhau for inspiring me :)
+
+You can check out p5-manager here: https://github.com/chiunhau/p5-manager
 
 ## Contribution
-I really really need your contributions as my exams are everywhere and I don't have much time to fix all the bugs :) so please, feel free to send me pull requests :)
+I really really need your contributions because my exams are everywhere and I don't have much time to fix all the bugs :) so please, feel free to send me pull requests :)
 
 ## Contact
 viethungax@gmail.com <br>
