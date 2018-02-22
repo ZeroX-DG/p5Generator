@@ -2,6 +2,8 @@
 
 > A p5.js projects generator and manager
 
+**Stop working on this project, switched to new project here: https://github.com/ZeroX-DG/Paw**
+
 ## About this project
 This project was inspired by p5-manager by @chiunhau
 And also it's because I have some freetime and I want to create my version of "p5-manager"
